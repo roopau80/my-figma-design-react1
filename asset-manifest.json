@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/my-figma-design-react1/static/css/main.23233ce2.css",
+    "main.js": "/my-figma-design-react1/static/js/main.3eacf96d.js",
+    "static/js/453.bf9cf9f4.chunk.js": "/my-figma-design-react1/static/js/453.bf9cf9f4.chunk.js",
+    "static/media/my-shoes.png": "/my-figma-design-react1/static/media/my-shoes.459f9a44e6cd5b5f9da6.png",
+    "static/media/shoes2-done.png": "/my-figma-design-react1/static/media/shoes2-done.eb2244baf89ae45083ac.png",
+    "index.html": "/my-figma-design-react1/index.html",
+    "main.23233ce2.css.map": "/my-figma-design-react1/static/css/main.23233ce2.css.map",
+    "main.3eacf96d.js.map": "/my-figma-design-react1/static/js/main.3eacf96d.js.map",
+    "453.bf9cf9f4.chunk.js.map": "/my-figma-design-react1/static/js/453.bf9cf9f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23233ce2.css",
+    "static/js/main.3eacf96d.js"
+  ]
+}
